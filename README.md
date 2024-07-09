@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Eu sou Cicero Lucas, desenvolvedor front-end 
 
+🚀 **Habilidades**: React, JavaScript, HTML, CSS, Node.js, PHP, Flutter, MySQL, MongoDB
+
+🌱 **Atualmente aprendendo**: Gerenciamento de Projetos e Flutter.
 <!--
 **cicero-lucas/cicero-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
