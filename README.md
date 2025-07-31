@@ -7,52 +7,11 @@
 ---
 ## 🛠️ Stack Principal
 
-### 💻 Front-end
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" />
-</div>
-
-### 🧠 Inteligência Artificial & Dados
-
-<div>
-  <img src="https://img.shields.io/badge/LangChain-000?logo=langchain&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?logo=amazon-aws&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/Amazon%20Lex-232F3E?logo=amazon-aws&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazon-aws&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white" height="24" />
-</div>
-
-### 🔧 Back-end
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" />
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazon-aws&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazon-aws&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/API%20Gateway-232F3E?logo=amazon-aws&logoColor=white" height="24" />
-</div>
-
-### 💾 Banco de Dados
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white" height="24" />
-</div>
-
+<p align="center"> <table> <tr> <td align="center"><strong>💻 Front-end</strong><br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> </td> <td align="center"><strong>🖥️ Back-end</strong><br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" /> </td> <td align="center"><strong>🧠 IA & Dados</strong><br><br> <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?logo=amazon-aws&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazon-aws&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white" height="24" /> </td> <td align="center"><strong>☁️ Cloud & DevOps</strong><br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" /> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazon-aws&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-aws&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazon-aws&logoColor=white" height="24" /> </td> </tr> </table> </p>
 ---
+
+<p align="center"> <table> <tr> <td align="center"> <strong>🚀 Projeto 1: Chatbot de Suporte</strong><br><br> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazon-aws&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Amazon%20Lex-232F3E?logo=amazon-aws&logoColor=white" height="24" /> <br><a href="https://github.com/cicero-lucas/chatbot-support">Ver projeto</a> </td> <td align="center"> <strong>💼 Projeto 2: Plataforma de E-commerce</strong><br><br> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-aws&logoColor=white" height="24" /> <br><a href="https://github.com/cicero-lucas/ecommerce-platform">Ver projeto</a> </td> <td align="center"> <strong>📈 Projeto 3: Análise de Sentimentos</strong><br><br> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white" height="24" /> <br><a href="https://github.com/cicero-lucas/sentiment-analysis">Ver projeto</a> </td> </tr> </table> </p>
+
 
 ## 🎯 Objetivo Profissional
 
