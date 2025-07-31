@@ -51,18 +51,6 @@
 ---
 
 
-## 🚀 Sobre mim
-
-Desenvolvedor com foco em **IA Generativa** e **Data & AI**, aplicando soluções inteligentes baseadas em modelos de linguagem (LLMs), NLP e arquitetura em nuvem.  
-Atuo no desenvolvimento de APIs com Python (FastAPI, Flask) e Node.js, integrando LLMs com LangChain, Amazon Bedrock, Amazon Lex e SageMaker.  
-Experiência com bancos relacionais (MySQL, RDS) e NoSQL (MongoDB, DynamoDB), pipelines de dados com Glue, Lambda e S3, além de Docker, EC2, API Gateway e arquitetura serverless.  
-No front-end, utilizo React e TypeScript para interfaces ricas em experiência.  
-Participo de squads ágeis com Scrum, colaborando em soluções de ponta a ponta.  
-Certificado AWS Cloud Practitioner e GenAI Technical.  
-Busco consolidar-me como desenvolvedor especialista em IA e Dados, entregando valor com soluções robustas, escaláveis e baseadas em cloud.
-
----
-
 
 ## 🌱 Atualmente aprendendo
 
