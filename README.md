@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="24" />
 
 <br>
-<a href="https://github.com/cicero-lucas/floricultura-system">Ver projeto</a>
+<a href="https://github.com/cicero-lucas/springboot-floricultura-app-">Ver projeto</a>
 </td>
 
 <td align="center">
