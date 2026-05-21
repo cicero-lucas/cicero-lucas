@@ -87,14 +87,13 @@
 
   <!-- Projeto 2 -->
   <td align="center">
-    <strong>💼 Projeto 2: Plataforma de E-commerce</strong><br>
-    <em>Loja online com integração AWS</em><br><br>
+    <strong> 🌐 Projeto 2: NetPulse </strong><br>
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="24" />
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" />
     <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="24" />
     <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-aws&logoColor=white" height="24" />
     <br><br>
-    <p>Plataforma de e-commerce com upload de imagens para AWS S3 e persistência em MySQL.</p>
+    <p> Plataforma corporativa full stack para monitoramento e gerenciamento de serviços de internet, desenvolvida para empresas de telecomunicações (ISPs).</p>
     <a href="https://github.com/cicero-lucas/ecommerce-platform">🔗 Ver projeto</a>
   </td>
 
