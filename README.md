@@ -86,16 +86,25 @@
   </td>
 
   <!-- Projeto 2 -->
-  <td align="center">
-    <strong> 🌐 Projeto 2: NetPulse </strong><br>
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-aws&logoColor=white" height="24" />
-    <br><br>
-    <p> Plataforma corporativa full stack para monitoramento e gerenciamento de serviços de internet, desenvolvida para empresas de telecomunicações (ISPs).</p>
-    <a href="https://github.com/cicero-lucas/ecommerce-platform">🔗 Ver projeto</a>
-  </td>
+ <td align="center">
+  <strong>🌐 Projeto 2: NetPulse</strong><br>
+  <em>Plataforma full stack para monitoramento de serviços de internet (ISPs)</em><br><br>
+
+  <!-- Badges principais -->
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Bull-FF0000?logo=nestjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="24" />
+
+  <br><br>
+  <p>Aplicação corporativa para ISPs, com monitoramento, relatórios e gestão de serviços em tempo real.</p>
+  <a href="https://github.com/cicero-lucas/ecommerce-platform">🔗 Ver projeto</a>
+</td>
+
 
   <!-- Projeto 3 --
 
