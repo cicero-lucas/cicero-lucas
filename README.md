@@ -100,16 +100,43 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="24" />
 
-  <br><br>
+  <br>
   <p>Aplicação corporativa para ISPs, com monitoramento, relatórios e gestão de serviços em tempo real.</p>
   <a href="https://github.com/cicero-lucas/ecommerce-platform">🔗 Ver projeto</a>
 </td>
 
 
-  <!-- Projeto 3 --
+<td align="center">
+  <strong>🚀 Projeto 3: AWS Serverless Chat Platform</strong><br>
+  <em>Chat corporativo em tempo real na AWS</em><br><br>
 
-  <!-- Projeto 4 -->
-  <td align="center">
+  <!-- Badges principais -->
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/AWS%20Cognito-FF9900?logo=amazonaws&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/SQS-FF9900?logo=amazonsqs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?logo=amazoneventbridge&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/SNS-FF9900?logo=amazonsns&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?logo=amazonaws&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?logo=amazoncloudwatch&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/X--Ray-FF9900?logo=amazonaws&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="24" />
+
+  <br>
+  <p>Plataforma de chat corporativo distribuído em tempo real, construída com arquitetura serverless na AWS, integração com IA generativa e monitoramento avançado.</p>
+  <a href="https://github.com/cicero-lucas/Chat-Platform-AWS">🔗 Ver projeto</a>
+</td>
+
+</tr>
+
+<tr>
+
+   <td align="center">
     <strong>🌸 Projeto 4: Sistema de Floricultura</strong><br>
     <em>Gestão de vendas e estoque</em><br><br>
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="24" />
@@ -124,6 +151,7 @@
     <a href="https://github.com/cicero-lucas/springboot-floricultura-app-">🔗 Ver projeto</a>
   </td>
 </tr>
+
 </table>
 </p>
 
