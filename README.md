@@ -196,18 +196,35 @@ Atuar como **Desenvolvedor Full Stack e Cloud Engineer**, aplicando conhecimento
 Sou desenvolvedor especializado em **IA Generativa**, **Data & AI** e **Cloud Computing**.  
 Tenho experiência em construir soluções completas — do front-end ao back-end — com foco em performance, escalabilidade e inovação.
 
-Atualmente trabalho com:
--Desenvolvimento Full Stack com integração de LLMs utilizando LangChain, Amazon Bedrock e OpenAI
--Desenvolvimento de APIs robustas com Python (FastAPI, Flask) e Node.js
--Aplicação de técnicas de Processamento de Linguagem Natural (NLP) em automações com Inteligência Artificial
--Arquitetura de soluções escaláveis em AWS (Lambda, Glue, RDS, S3, EC2 e API Gateway)
--Desenvolvimento Full Stack de interfaces web com React e TypeScript, aplicando boas práticas de UI/UX
+# 🚀 Competências Técnicas
+
+- **Desenvolvimento Full Stack com integração de LLMs**  
+  Utilizando **LangChain**, **Amazon Bedrock** e **OpenAI** para criar soluções inteligentes.
+
+- **Desenvolvimento de APIs robustas**  
+  Com **Python (FastAPI, Flask)** e **Node.js**, garantindo escalabilidade e performance.
+
+- **Aplicação de técnicas de NLP**  
+  Em automações com **Inteligência Artificial**, otimizando processos e fluxos de trabalho.
+
+- **Arquitetura de soluções escaláveis em AWS**  
+  Experiência com **Lambda, Glue, RDS, S3, EC2 e API Gateway**.
+
+- **Desenvolvimento Full Stack de interfaces web**  
+  Usando **React** e **TypeScript**, aplicando boas práticas de **UI/UX** para experiências modernas e intuitivas.
+
+
 
 ## 📚 Em aprendizado contínuo
 
-- Arquitetura de soluções cloud utilizando AWS CDK
-- Desenvolvimento de aplicações web com Angular e integração de recursos de Inteligência Artificial
-- Atuação em gerenciamento de projetos ágeis e participação em squads autogerenciáveis
+- **Arquitetura de soluções cloud**  
+  Utilizando **AWS CDK** para provisionamento e automação de infraestrutura.
+
+- **Desenvolvimento de aplicações web com Angular**  
+  Integrando recursos de **Inteligência Artificial** para experiências avançadas.
+
+- **Atuação em gerenciamento de projetos ágeis**  
+  Participação em **squads autogerenciáveis**, aplicando metodologias ágeis para entrega contínua.
 
 ---
 
