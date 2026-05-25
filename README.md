@@ -150,6 +150,24 @@
     <p>Sistema completo para gerenciamento de floricultura, com autenticação segura e interface moderna.</p>
     <a href="https://github.com/cicero-lucas/springboot-floricultura-app-">🔗 Ver projeto</a>
   </td>
+  <td align="center">
+  <strong>📰 Projeto 5: TecBlog</strong><br>
+  <em>Plataforma de blog de tecnologia</em><br><br>
+
+  <!-- Badges principais -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="24" />
+
+  <br><br>
+  <p>Blog de tecnologia desenvolvido com Node.js, React e MongoDB. Permite criar, editar, favoritar e comentar postagens de forma intuitiva.</p>
+  <a href="https://github.com/cicero-lucas/TecBlog.click">🔗 Ver projeto</a>
+</td>
+
 </tr>
 
 </table>
