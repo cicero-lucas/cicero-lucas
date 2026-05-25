@@ -102,7 +102,7 @@
 
   <br>
   <p>Aplicação corporativa para ISPs, com monitoramento, relatórios e gestão de serviços em tempo real.</p>
-  <a href="https://github.com/cicero-lucas/ecommerce-platform">🔗 Ver projeto</a>
+  <a href="https://github.com/cicero-lucas/project-NetPulse">🔗 Ver projeto</a>
 </td>
 
 
