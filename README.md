@@ -178,8 +178,7 @@
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Especialista em IA e Dados**, contribuindo com soluções que unem inteligência artificial, engenharia de software e computação em nuvem.  
-Tenho paixão por **resolver problemas complexos**, **entregar produtos de impacto** e **trabalhar em equipe com propósito**.
+Atuar como **Desenvolvedor Full Stack e Cloud Engineer**, aplicando conhecimentos em **inteligência artificial**, **arquitetura serverless e engenharia de software** na construção de soluções escaláveis e de alto impacto. Tenho paixão por tecnologia, automação de processos, IA generativa e desenvolvimento de produtos modernos, sempre com foco em inovação, performance e colaboração em equipe.
 
 ---
 
@@ -187,6 +186,8 @@ Tenho paixão por **resolver problemas complexos**, **entregar produtos de impac
 
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS GenAI Technical Essentials
+- ✅Oracle Cloud Infrastructure AI Foundations Associate
+- ✅Oracle AI Agent Studio Foundations Associate 
 
 ---
 
@@ -196,19 +197,17 @@ Sou desenvolvedor especializado em **IA Generativa**, **Data & AI** e **Cloud Co
 Tenho experiência em construir soluções completas — do front-end ao back-end — com foco em performance, escalabilidade e inovação.
 
 Atualmente trabalho com:
-
-- Integração de LLMs via LangChain, Amazon Bedrock e OpenAI
-- APIs robustas com Python (FastAPI, Flask) e Node.js
-- Processamento de linguagem natural (NLP) e automações com IA
-- Infraestrutura escalável com AWS (Lambda, Glue, RDS, S3, EC2, API Gateway)
-- Interface ricas com React, TypeScript e boas práticas de UI/UX
-
+-Desenvolvimento Full Stack com integração de LLMs utilizando LangChain, Amazon Bedrock e OpenAI
+-Desenvolvimento de APIs robustas com Python (FastAPI, Flask) e Node.js
+-Aplicação de técnicas de Processamento de Linguagem Natural (NLP) em automações com Inteligência Artificial
+-Arquitetura de soluções escaláveis em AWS (Lambda, Glue, RDS, S3, EC2 e API Gateway)
+-Desenvolvimento Full Stack de interfaces web com React e TypeScript, aplicando boas práticas de UI/UX
 
 ## 📚 Em aprendizado contínuo
 
-- Arquitetura de soluções com AWS CDK
-- Flutter para apps mobile com IA integrada
-- Gerenciamento de projetos ágeis e squads autogerenciáveis
+- Arquitetura de soluções cloud utilizando AWS CDK
+- Desenvolvimento de aplicações web com Angular e integração de recursos de Inteligência Artificial
+- Atuação em gerenciamento de projetos ágeis e participação em squads autogerenciáveis
 
 ---
 
