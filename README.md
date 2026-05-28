@@ -137,19 +137,22 @@
 <tr>
 
    <td align="center">
-    <strong>🌸 Projeto 4: Sistema de Floricultura</strong><br>
-    <em>Gestão de vendas e estoque</em><br><br>
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/BCrypt-4B8BBE?logo=security&logoColor=white" height="24" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="24" />
+    <strong>📄 Projeto: Enterprise Intelligent Document Processing Platform</strong><br>
+    <em>Cloud-native, serverless, multi-tenant document processing</em><br><br>
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Amplify-FF9900?logo=awsamplify&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?logo=aws&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Textract-FF4F8B?logo=aws&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Comprehend-FF4F8B?logo=aws&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Claude%203-000000?logo=anthropic&logoColor=white" height="24" />
     <br><br>
-    <p>Sistema completo para gerenciamento de floricultura, com autenticação segura e interface moderna.</p>
-    <a href="https://github.com/cicero-lucas/springboot-floricultura-app-">🔗 Ver projeto</a>
-  </td>
+    <p>Plataforma inteligente para processamento de documentos em escala corporativa, com arquitetura moderna baseada em AWS, IA generativa e automação serverless.</p>
+    <a href="https://github.com/cicero-lucas/enterprise-idp-platform">🔗 Ver projeto</a>
+</td>
   <td align="center">
   <strong>📰 Projeto 5: TecBlog</strong><br>
   <em>Plataforma de blog de tecnologia</em><br><br>
