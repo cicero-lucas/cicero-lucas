@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Cicero Lucas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/cicero-lucas-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cicero-lucas)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/seu-badge)
+[![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-F80000?logo=oracle&logoColor=white)](https://www.credly.com/badges/seu-badge)
+
 
 ---
 ## 🛠️ Stack Principal
