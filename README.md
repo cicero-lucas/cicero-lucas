@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Cicero Lucas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-lucas-silva/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://cicero-ai-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://cicerolucas.vercel.app/)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/seu-badge)
 [![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-F80000?logo=oracle&logoColor=white)](https://www.credly.com/badges/seu-badge)
 
